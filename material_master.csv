@@ -1,0 +1,51 @@
+Material_ID,Category,Description,Base_Daily_Demand,Seasonality_Type,Lead_Time,Unit_Cost,Holding_Cost_Rate,Ordering_Cost,Stockout_Penalty
+MAT001,FMCG,Shampoo,35,None,7,403.33,0.039,456.26,169.75
+MAT002,FMCG,Conditioner,30,None,10,139.85,0.041,690.81,376.38
+MAT003,FMCG,Toothpaste,40,None,3,281.41,0.013,716.44,254.69
+MAT004,FMCG,Bath Soap,45,None,7,316.59,0.024,204.17,474.69
+MAT005,FMCG,Laundry Detergent,50,None,7,70.9,0.015,506.45,155.01
+MAT006,FMCG,Fabric Softener,30,None,10,323.4,0.045,450.45,236.43
+MAT007,FMCG,Dishwashing Liquid,25,None,3,126.74,0.035,333.26,145.39
+MAT008,FMCG,Bottled Water 1L,60,None,3,79.27,0.023,271.92,469.88
+MAT009,FMCG,Instant Coffee,35,None,7,477.0,0.013,402.57,450.94
+MAT010,FMCG,Canned Tuna,28,None,5,484.53,0.022,765.75,203.18
+MAT011,Grocery,Rice 5kg,40,None,7,413.78,0.023,393.92,363.99
+MAT012,Grocery,Cooking Oil 1L,30,None,7,187.08,0.039,511.27,426.89
+MAT013,Grocery,Sugar 1kg,25,None,7,93.95,0.036,621.81,322.08
+MAT014,Grocery,Flour 1kg,20,None,7,357.9,0.045,418.18,311.86
+MAT015,Grocery,Pasta 500g,18,None,10,248.07,0.029,783.07,196.74
+MAT016,Grocery,Tomato Sauce 250g,22,None,3,104.92,0.015,777.47,137.24
+MAT017,Grocery,Breakfast Cereal,15,None,10,272.83,0.039,351.07,458.89
+MAT018,Grocery,Peanut Butter,12,None,10,65.47,0.04,498.35,460.17
+MAT019,Grocery,Chocolate Bar,30,None,10,459.19,0.032,380.53,353.24
+MAT020,Grocery,Snack Chips,35,None,7,166.45,0.041,370.9,235.61
+MAT021,Perishable,Fresh Milk 1L,50,None,5,348.14,0.03,222.13,239.68
+MAT022,Perishable,Eggs 12pcs,45,None,3,190.27,0.031,565.74,390.38
+MAT023,Perishable,Bread Loaf,40,None,5,284.03,0.027,501.61,458.84
+MAT024,Perishable,Bananas,38,None,10,296.02,0.011,230.89,454.83
+MAT025,Perishable,Chicken Breast 1kg,30,None,10,133.18,0.014,367.19,411.95
+MAT026,Household,Toilet Paper 12pk,25,None,5,486.31,0.011,744.96,356.81
+MAT027,Household,Paper Towels,20,None,5,398.81,0.035,343.74,133.66
+MAT028,Household,Trash Bags,18,None,5,472.77,0.023,286.94,164.65
+MAT029,Household,Light Bulbs,12,None,10,452.67,0.03,493.67,459.42
+MAT030,Household,Cleaning Spray,15,None,10,319.05,0.046,791.39,342.57
+MAT031,Electronics,Earphones,12,None,3,464.84,0.02,345.23,103.68
+MAT032,Electronics,USB Cable,15,None,3,89.82,0.026,603.28,140.59
+MAT033,Electronics,Power Bank,10,None,10,138.19,0.04,656.97,365.4
+MAT034,Electronics,Wireless Mouse,8,None,5,70.35,0.019,342.58,102.02
+MAT035,Electronics,LED Flashlight,10,None,5,196.4,0.013,636.93,164.32
+MAT036,Apparel,Men T-Shirt,20,Summer,3,224.9,0.022,420.67,319.49
+MAT037,Apparel,Women T-Shirt,18,Summer,10,172.11,0.016,579.38,376.76
+MAT038,Apparel,Socks 3pk,15,None,3,422.93,0.047,580.12,360.78
+MAT039,Apparel,Baseball Cap,10,Summer,3,210.54,0.042,521.46,189.71
+MAT040,Apparel,Slippers,12,Summer,7,176.42,0.035,254.17,384.87
+MAT041,Seasonal,Christmas Lights,5,Holiday,7,294.21,0.045,701.18,194.9
+MAT042,Seasonal,Gift Wrap,8,Holiday,7,113.42,0.042,392.47,230.16
+MAT043,Seasonal,School Notebook,20,School,5,410.99,0.017,311.91,398.6
+MAT044,Seasonal,Ballpoint Pens,25,School,10,83.55,0.046,224.47,359.85
+MAT045,Seasonal,Electric Fan,10,Summer,10,494.1,0.032,554.54,439.69
+MAT046,Toys,Toy Car,8,None,10,397.51,0.042,606.54,363.05
+MAT047,Toys,Stuffed Animal,6,None,10,139.42,0.046,209.95,327.32
+MAT048,Toys,Coloring Book,10,None,7,52.48,0.023,507.26,137.47
+MAT049,Misc,Water Bottle,15,None,5,416.96,0.014,335.9,247.09
+MAT050,Misc,Umbrella,12,Rainy,5,368.09,0.019,587.1,206.08

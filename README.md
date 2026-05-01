@@ -6,7 +6,7 @@ valuation in S/4HANA-oriented environments.
 
 This repository provides:
 
-- A 50‑item Walmart‑style synthetic material master  
+- A 100‑item Walmart‑style synthetic material master  
 - Seven years of daily demand (2019–2025)  
 - Seasonality, weekly patterns, and stochastic noise  
 - Cost parameters for inventory optimization  
@@ -23,7 +23,7 @@ systems.
 
 | File | Description |
 |------|-------------|
-| **material_master.csv** | Master data for 50 items (category, base demand, seasonality, lead time, costs) |
+| **material_master.csv** | Master data for 100 items (category, base demand, seasonality, lead time, costs) |
 | **synthetic_7year_demand.csv** | Daily demand for each item from 2019–2025 |
 | **synthetic_generator.py** | Full generator script that produces both CSV files |
 | **SAPiBench.ipynb** | End‑to‑end forecasting, simulation, and valuation notebook |
@@ -58,7 +58,7 @@ This will create:
 
 The generator is **self‑contained** and includes:
 
-- The full 50‑item catalog  
+- The full 100‑item catalog  
 - Seasonality logic  
 - Weekly patterns  
 - Noise generation  
@@ -70,7 +70,7 @@ The generator is **self‑contained** and includes:
 
 ### **1. Material Master**
 
-Each of the 50 items includes:
+Each of the 100 items includes:
 
 - Material ID  
 - Category  

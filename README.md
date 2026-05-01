@@ -121,7 +121,7 @@ The dataset supports:
 
 - 80/20 train‑test split  
 - Evaluation using MAPE, RMSE, MAE  
-- Classical forecasting models (Naive, Moving Average, ETS, ARIMA)  
+- Classical forecasting models (Naive, Moving Average, Random Forest, Gradient Boosting)  
 
 This aligns with forecasting research standards.
 
